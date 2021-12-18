@@ -56,6 +56,14 @@
     -webkit-animation: spin 2s linear infinite;
     animation: spin 2s linear infinite;
 }
+
+.circle-loader{
+    width: 70px;
+    height: 70px;
+    position: relative;
+    border-radius:50%;
+    animation: circle-loader 5s linear 2s infinite;
+}
   
 @-webkit-keyframes spin {
     0% { -webkit-transform: rotate(0deg); }
@@ -65,4 +73,30 @@
 @keyframes spin {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
+}
+
+@keyframes circle-loader {
+    0%   {
+        background-color:red; left:0px; top:0px;
+    }
+    25%  {
+        background-color:#ffbb00;
+        left:200px;
+        top:0px;
+    }
+    50%  {
+        background-color:#1476e7;
+        left:200px;
+        top:200px;
+    }
+    75%  {
+        background-color:green;
+        left:0px;
+        top:200px;
+    }
+    100% {
+        background-color:red;
+        left:0px;
+        top:0px;
+    }
 }
