@@ -24,3 +24,23 @@
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
+
+.b{
+    font-weight: bolder;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.redtext{
+    color: red;
+}
+
+.bluetext{
+    color: var(--blue);
+}
+
+.overlinetext{
+    text-decoration: overline;
+}
