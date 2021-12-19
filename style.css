@@ -77,7 +77,7 @@
 }
 
 .shake:hover {
-    animation: shake 0.5s;
+    animation: shake 0.4s;
     animation-iteration-count: infinite;
 }
 
