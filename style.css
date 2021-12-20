@@ -38,7 +38,7 @@
 }
 
 .bluetext{
-    color: var(--blue);
+    color: var(--coolblue);
 }
 
 .overlinetext{
@@ -99,6 +99,10 @@
 
 .smalltext{
     font-size: small;
+}
+
+.centertext{
+    text-align: center;
 }
 
 @keyframes shake {
