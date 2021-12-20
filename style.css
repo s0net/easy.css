@@ -105,6 +105,10 @@
     text-align: center;
 }
 
+.goodfont{
+    font-family: 'Franklin Gothic Medium';
+}
+
 @keyframes shake {
     0% { transform: translate(1px, 1px) rotate(0deg); }
     10% { transform: translate(-1px, -2px) rotate(-1deg); }
