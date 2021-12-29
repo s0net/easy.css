@@ -106,8 +106,16 @@
 }
 
 .goodfont{
-    font-family: 'Franklin Gothic Medium';
+    font-family: monospace;
 }
+
+.code {
+    background-color: #eee;
+    border-radius: 3px;
+    font-family: monospace;
+    padding: 3px;
+}
+
 
 @keyframes shake {
     0% { transform: translate(1px, 1px) rotate(0deg); }
