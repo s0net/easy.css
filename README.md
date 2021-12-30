@@ -2,6 +2,7 @@
 a free open source css library  with prebuilt class for free and pre built colors  
 <br>
 <p>
+<link rel="stylesheet" href="./style.css">
 usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="https://s0net.github.io/easy.css/style.css"&gt;
 </p>
 <div class="main-body">
@@ -48,15 +49,9 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
                 </h1>
                 <br>
                 <h1 class="small">
-                    lavender <span style="background: var(--lavender);color: var(--lavender);">c0</span>
+                    lavender<span style="background: var(--lavender);color:var(--lavender);">c0</span>
                 </h1>
-                <br>
-                <code contenteditable="true">
-                    var(--lavender)
-                    <br>
-                    <span class="code">this is a css var</span>
-                </code>
-                <hr>
+                <pre contenteditable="true">var(--lavender)</pre>
                 <h1 class="small">
                     coolblue <span style="background: var(--coolblue);color: var(--coolblue);">c0</span>
                 </h1>
