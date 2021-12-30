@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'easycss';
     src:
-      url('fonts/easycss.ttf?5cxcr') format('truetype'),
-      url('fonts/easycss.woff?5cxcr') format('woff'),
-      url('fonts/easycss.svg?5cxcr#easycss') format('svg');
+      url('icons/easycss.ttf') format('truetype'),
+      url('icons/easycss.woff?5cxcr') format('woff'),
+      url('icons/easycss.svg?5cxcr#easycss') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: block;
