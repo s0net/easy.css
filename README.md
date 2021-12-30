@@ -1,9 +1,6 @@
 # easy.css
 a free open source css library  with prebuilt class for free and pre built colors  
-<br>
-<p>
 usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="https://s0net.github.io/easy.css/style.css"&gt;
-</p>
 <div class="main-body">
     <nav id="navbar">
         <h1>Documentation Menu</h1>
@@ -217,31 +214,19 @@ Let us now look a example program : <br>
             <section id="show">
                 <h1>show</h1>
                 <p>this is used to show a element</p>
-                <p>example <span class="show">show</span></p>
-                <code contenteditable="true">
-                    &lt;span class="show"&gt;show&lt;/span&gt;
-                    <span class="code">this is a class so you can add it to the classes of a element</span>
-                </code>
+                <pre contenteditable="true">&lt;span class="show"&gt;show&lt;/span&gt;</pre>
             </section>
             <hr>
             <section id="goodfont">
                 <h1>goodfont</h1>
                 <p>this is used to apply the monospace font family</p>
-                <p>example <span class="goodfont">goodfont example</span></p>
-                <code contenteditable="true">
-                    &lt;span class="goodfont"&gt;goodfont example&lt;/span&gt;
-                    <span class="code">this is a class so you can add it to the classes of a element</span>
-                </code>
+                <pre contenteditable="true">&lt;span class="goodfont"&gt;goodfont example&lt;/span&gt;</pre>
             </section>
             <hr>
             <section id="bigtext">
                 <h1>bigtext</h1>
                 <p>this is used to apply the font-size to xx-large</p>
-                <p>example <span class="bigtext">bigtext example</span></p>
-                <code contenteditable="true">
-                    &lt;span class="bigtext"&gt;bigtext example&lt;/span&gt;
-                    <span class="code">this is a class so you can add it to the classes of a element</span>
-                </code>
+                <pre contenteditable="true">&lt;span class="bigtext"&gt;bigtext example&lt;/span&gt;</pre>
             </section>
             <hr>
             <section id="smalltext">
