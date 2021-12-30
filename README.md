@@ -31,7 +31,7 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
                     What is easy.css?
                 </h1>
                 <p>
-                    easy css is a css library to make your html css bettery <br>
+                    easy css is a css library to make your html css better <br>
                 </p>
                 <p>
 Let us now look a example program : <br>
@@ -43,17 +43,17 @@ Let us now look a example program : <br>
                 <h1>
                     EASY.css Colors
                 </h1>
-                <h1>
+                <h2>
                     lavender <img src="https://placehold.it/16/8463fb/000000?text=+">
-                </h1>
+                </h2>
                 <pre contenteditable="true">var(--lavender)</pre>
-                <h1>
+                <h2>
                     coolblue <img src="https://placehold.it/16/2a91ff/000000?text=+">
-                </h1>
+                </h2>
                 <pre contenteditable="true">var(--coolblue)</pre>
-                <h1>
+                <h2>
                     coolyellow <img src="https://placehold.it/16/ffc549/000000?text=+">
-                </h1>
+                </h2>
                 <pre contenteditable="true">var(--coolyellow)</pre>
                 <h1>
                     whatsapp_green <img src="https://placehold.it/16/1fe066/000000?text=+">
@@ -75,31 +75,31 @@ Let us now look a example program : <br>
                     darkgrey <img src="https://placehold.it/16/737373/000000?text=+">
                 </h1>
                 <pre contenteditable="true">var(--darkgrey)</pre>
-                <h1>
+                <h2>
                     ligthgrey <img src="https://placehold.it/16/a1a1a1/000000?text=+">
-                </h1>
+                </h2>
                 <pre contenteditable="true">var(--ligthgrey)</pre>
-                <h1>
+                <h2>
                     orange  <img src="https://placehold.it/16/ffbb00/000000?text=+">
-                </h1>
+                </h2>
                 <pre contenteditable="true">var(--orange)</pre>
-                <h1>
+                <h2>
                     blue <img src="https://placehold.it/16/00a2f3/000000?text=+">
-                </h1>
+                </h2>
                 <pre contenteditable="true">var(--blue)</pre>
-                <h1>
+                <h2>
                     purple <img src="https://placehold.it/16/7700ff/000000?text=+">
-                </h1>
+                </h2>
                 <pre contenteditable="true">var(--purple)</pre>
-                <h1>
+                <h2>
                     okblack <span style="background: var(--okblack);color: var(--okblack);">c0</span>
-                </h1>
+                </h2>
                 <code contenteditable="true">
                     var(--okblack)
                 </code>
-                <h1>
+                <h2>
                     bluedark <span style="background: var(--bluedark);color: var(--bluedark);">c0</span>
-                </h1>
+                </h2>
                 <code contenteditable="true">
                     var(--bluedark)
                     <span class="code">this is a css var</span>
