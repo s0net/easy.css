@@ -141,8 +141,7 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
             <section id="spinner">
                 <h1>spinner</h1>
                 <p>this is used to make a spinner in html</p>
-                </p>
-                <pre>&lt;div class="spinner"&gt;this text is blue&lt;div&gt;</pre>
+                <pre>&lt;div class="spinner"&gt;&lt;div&gt;</pre>
             </section>
             <hr>
             <section id="shake">
