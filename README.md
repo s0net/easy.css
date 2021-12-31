@@ -43,7 +43,7 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
             <hr>
             <section id="colors">
                 <h1>
-                    EASY.css Colors
+                    EASY.css Colors                <img src="./image.jpg">
                 </h1>
                 <h2>
                     lavender <img src="https://placehold.it/16/8463fb/000000?text=+">
