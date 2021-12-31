@@ -25,8 +25,7 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
         <a href="#show">show</a><br>
         <a href="#bigtext">bigtext</a><br>
         <a href="#smalltext">smalltext</a><br>
-        <a href="#hidden_classses">challenge</a><br><br>
-            found a problem fix on <a href="https://github.com/s0net/easy.css" target="_blank" class="github">github</a>
+        <a href="#hidden_classses">challenge</a>
         </nav>
         <br>
         <hr>
@@ -203,5 +202,8 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
                     go to  <a href="https://github.com/s0net/easy.css/edit/main/index.html" target="_blank" class="github">github</a> and add it here 
                 </p>
             </section>
+            <b>
+            found a problem fix on <a href="https://github.com/s0net/easy.css" target="_blank" class="github">GITHUB</a>
+            </b>
         </main>
     </div>
