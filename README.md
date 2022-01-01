@@ -192,6 +192,12 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
                 <pre>&lt;span class="smalltext"&gt;smalltext example&lt;/span&gt;</pre>
             </section>
             <hr>
+            <section id="bottom-text">
+                <h1>bottom-text</h1>
+                <p>this is used to make the text inside to the bottom of the screen</p>
+                <pre>&lt;span class="bottom-text"&gt;bottom-text example&lt;/span&gt;</pre>
+            </section>
+            <hr>
             <section id="hidden_classses">
                 <h1>One More Thing</h1>
                 <p>
