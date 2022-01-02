@@ -11,7 +11,6 @@
   
 .icon {
     font-family: 'easycss' !important;
-    speak: never;
     font-style: normal;
     font-weight: normal;
     font-variant: normal;
@@ -37,7 +36,7 @@
     content: "\e4";
 }
 
-.icon-pencil2:before {
+.icon-pencil:before {
     content: "\e906";
 }
 
@@ -91,7 +90,7 @@
 .icon-bullhorn:before {
     content: "\e91a";
 }
-.icon-connection:before {
+.icon-wifi:before {
     content: "\e91b";
 }
 .icon-mic:before {
@@ -103,25 +102,25 @@
 .icon-books:before {
     content: "\e920";
 }
-.icon-file-text:before {
+.icon-text-file:before {
     content: "\e922";
 }
 .icon-profile:before {
     content: "\e923";
 }
-.icon-file-picture:before {
+.icon-picture-file:before {
     content: "\e927";
 }
-.icon-file-music:before {
+.icon-music-file:before {
     content: "\e928";
 }
-.icon-file-play:before {
+.icon-play-file:before {
     content: "\e929";
 }
-.icon-file-video:before {
+.icon-video-file:before {
     content: "\e92a";
 }
-.icon-file-zip:before {
+.icon-zip-file:before {
     content: "\e92b";
 }
 .icon-paste:before {
@@ -160,16 +159,16 @@
 .icon-cart:before {
     content: "\e93a";
 }
-.icon-coin-dollar:before {
+.icon-dollar:before {
     content: "\e93b";
 }
-.icon-coin-euro:before {
+.icon-euro:before {
     content: "\e93c";
 }
-.icon-coin-pound:before {
+.icon-pound:before {
     content: "\e93d";
 }
-.icon-coin-yen:before {
+.icon-yen:before {
     content: "\e93e";
 }
 .icon-credit-card:before {
