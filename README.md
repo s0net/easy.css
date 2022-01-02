@@ -4,7 +4,7 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
 <div class="main-body">
     <style>
     html{
-        font-family:'Architects Daughter';
+        font-family: cursive;
         scroll-behavior: smooth;
     }
     section h1{
