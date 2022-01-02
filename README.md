@@ -202,7 +202,7 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
                 <pre>&lt;span class="bottom-text"&gt;bottom-text example&lt;/span&gt;</pre>
             </section>
             <hr>
-            <section>
+            <section id="icons">
             <h1>icons</h1>
             <iframe src="./icons.html" width="800" height="400"></iframe>
             </section>
