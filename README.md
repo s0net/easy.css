@@ -204,6 +204,7 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
             <hr>
             <section id="icons">
             <h1>icons</h1>
+            to use it you need to have a i element with a icon class with any icon class
             <iframe src="./icons.html" width="800" height="400"></iframe>
             </section>
             <hr>
