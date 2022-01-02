@@ -9,6 +9,9 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
     section h1{
         text-transform: capitalize;
     }
+    iframe{
+        width: 50%
+    }
     </style>
     <nav id="navbar">
         <h1>Documentation Menu</h1>
@@ -205,7 +208,7 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
             <section id="icons">
             <h1>icons</h1>
             to use it you need to have a i element with a icon class with any icon class
-            <iframe src="./icons.html" width="800" height="400"></iframe>
+            <iframe src="./icons.html"></iframe>
             </section>
             <hr>
             <section id="hidden_classses">
