@@ -28,8 +28,8 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
         <a href="#show">show</a><br>
         <a href="#bigtext">bigtext</a><br>
         <a href="#smalltext">smalltext</a><br>
+        <a href="./icons"><b>icons</b></a><br>
         <a href="#hidden_classses">challenge</a>
-        <a href="./icons"><h3>icons</h3></a>
         </nav>
         <br>
         <hr>
