@@ -3,6 +3,9 @@ a free open source css library  with prebuilt class for free and pre built color
 usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="https://s0net.github.io/easy.css/style.css"&gt;
 <div class="main-body">
     <style>
+    .main-body{
+    scroll-behavior: smooth;
+    }
     section h1{
         text-transform: capitalize;
     }
@@ -26,6 +29,7 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
         <a href="#bigtext">bigtext</a><br>
         <a href="#smalltext">smalltext</a><br>
         <a href="#hidden_classses">challenge</a>
+        <a href="./icons"><h3>icons</h3></a>
         </nav>
         <br>
         <hr>
