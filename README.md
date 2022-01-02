@@ -10,7 +10,7 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
         text-transform: capitalize;
     }
     iframe{
-        width: 50%
+        width: 70%
     }
     </style>
     <nav id="navbar">
@@ -207,7 +207,7 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
             <hr>
             <section id="icons">
             <h1>icons</h1>
-            to use it you need to have a i element with a icon class with any icon class
+            to use it you need to have a i element with a icon class with any icon class  <br>
             <iframe src="./icons.html"></iframe>
             </section>
             <hr>
