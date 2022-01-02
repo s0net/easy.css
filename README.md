@@ -28,7 +28,7 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
         <a href="#show">show</a><br>
         <a href="#bigtext">bigtext</a><br>
         <a href="#smalltext">smalltext</a><br>
-        <a href="./icons"><b>icons</b></a><br>
+        <a href="#icons"><b>icons</b></a><br>
         <a href="#hidden_classses">challenge</a>
         </nav>
         <br>
@@ -200,6 +200,11 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
                 <h1>bottom-text</h1>
                 <p>this is used to make the text inside to the bottom of the screen</p>
                 <pre>&lt;span class="bottom-text"&gt;bottom-text example&lt;/span&gt;</pre>
+            </section>
+            <hr>
+            <section>
+            <h1>icons</h1>
+            <iframe src="./icons.html" width="800" height="400"></iframe>
             </section>
             <hr>
             <section id="hidden_classses">
