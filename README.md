@@ -4,7 +4,8 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
 <div class="main-body">
     <style>
     html{
-    scroll-behavior: smooth;
+        font-family:'Architects Daughter';
+        scroll-behavior: smooth;
     }
     section h1{
         text-transform: capitalize;
