@@ -60,7 +60,11 @@
   width: 100px;
   height: 100vh;
   background-color: #555;
-  display: flex
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  align-content: stretch;
+  justify-content: center;
 }
 
 .side-bar .item {
@@ -71,7 +75,7 @@
   color: white;
   font-size: 36px;
   border: white 2px solid;
-  border-top-width: 0px
+  width: -webkit-fill-available;
 }
 
 .side-bar .item:hover {
