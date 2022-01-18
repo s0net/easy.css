@@ -208,7 +208,7 @@ usage add this tag to start &lt;link rel="stylesheet" type="text/css" href="http
             <hr>
             <section id="icons">
             <h1>icons</h1>
-            to use it you need to have a i element with a icon class with any icon class  <br>
+            to use it you need to have a i element with a icon class with any icon class and a link tag &lt;link rel="stylesheet" href="https://s0net.github.io/easy.css/icons.css"&gt; <br>
             <iframe src="./icons.html"></iframe>
             </section>
             <hr>
