@@ -961,6 +961,7 @@ i.icon, a.icon {
 }
 .icon-github:before {
     content: "\eab0";
+    color: black;
 }
 .icon-npm:before {
     content: "\eab1";
