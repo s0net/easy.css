@@ -913,6 +913,8 @@ i.icon, a.icon {
 }
 .icon-whatsapp:before {
     content: "\ea93";
+    color: white;
+    background-color: #25D366;
 }
 .icon-spotify:before {
     content: "\ea94";
@@ -920,6 +922,7 @@ i.icon, a.icon {
 }
 .icon-telegram:before {
     content: "\ea95";
+    color: #0088CC;
 }
 .icon-twitter:before {
     content: "\ea96";
@@ -1029,6 +1032,7 @@ i.icon, a.icon {
 .icon-pinterest2:before {
     content: "\ead2";
     background-color: #E60023;
+    color: white;
 }
 .icon-paypal:before {
     content: "\ead8";
