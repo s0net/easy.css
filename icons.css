@@ -923,6 +923,7 @@ i.icon, a.icon {
 }
 .icon-twitter:before {
     content: "\ea96";
+    color: #1DA1F2;
 }
 .icon-vine:before {
     content: "\ea97";
