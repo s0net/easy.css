@@ -916,6 +916,7 @@ i.icon, a.icon {
 }
 .icon-spotify:before {
     content: "\ea94";
+    color: #1DB954;
 }
 .icon-telegram:before {
     content: "\ea95";
@@ -934,6 +935,7 @@ i.icon, a.icon {
 }
 .icon-youtube:before {
     content: "\ea9d";
+    color: #FF0000;
 }
 .icon-youtube2:before {
     content: "\ea9e";
