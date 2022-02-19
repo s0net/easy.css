@@ -974,6 +974,8 @@ i.icon, a.icon {
 }
 .icon-npm:before {
     content: "\eab1";
+    color: #cb3837;
+    background-color: white;
 }
 .icon-wordpress:before {
     content: "\eab4";
@@ -989,6 +991,7 @@ i.icon, a.icon {
 }
 .icon-appleinc:before {
     content: "\eabe";
+    color: #000000;
 }
 .icon-finder:before {
     content: "\eabf";
