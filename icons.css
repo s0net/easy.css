@@ -992,6 +992,7 @@ i.icon, a.icon {
 }
 .icon-android:before {
     content: "\eac0";
+    color: #78C257;
 }
 .icon-windows:before {
     content: "\eac1";
@@ -1004,9 +1005,13 @@ i.icon, a.icon {
 }
 .icon-reddit:before {
     content: "\eac6";
+    color: white;
+    background-color:#FF4301;
 }
 .icon-wikipedia:before {
     content: "\eac8";
+    color: black;
+    background-color: white;
 }
 .icon-linkedin:before {
     content: "\eac9";
@@ -1019,9 +1024,11 @@ i.icon, a.icon {
 }
 .icon-pinterest:before {
     content: "\ead1";
+    color: #E60023;
 }
 .icon-pinterest2:before {
     content: "\ead2";
+    background-color: #E60023;
 }
 .icon-paypal:before {
     content: "\ead8";
