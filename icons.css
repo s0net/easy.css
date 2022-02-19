@@ -946,12 +946,15 @@ i.icon, a.icon {
 }
 .icon-twitch:before {
     content: "\ea9f";
+    color: #6441A4;
 }
 .icon-vimeo:before {
     content: "\eaa0";
+    color: #19B7EA;
 }
 .icon-vimeo2:before {
     content: "\eaa1";
+    color: #19B7EA;
 }
 .icon-flickr:before {
     content: "\eaa3";
