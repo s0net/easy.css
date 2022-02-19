@@ -904,6 +904,8 @@ i.icon, a.icon {
 }
 .icon-facebook2:before {
     content: "\ea91";
+    background-color: #4267B2;
+    color: white;
 }
 .icon-instagram:before {
     content: "\ea92";
