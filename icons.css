@@ -933,9 +933,11 @@ i.icon, a.icon {
 }
 .icon-rss:before {
     content: "\ea9b";
+    color: #f26522;
 }
 .icon-rss2:before {
     content: "\ea9c";
+    color: #f26522;
 }
 .icon-youtube:before {
     content: "\ea9d";
