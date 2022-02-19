@@ -901,6 +901,7 @@ i.icon, a.icon {
 }
 .icon-facebook:before {
     content: "\ea90";
+    color: #4267B2
 }
 .icon-facebook2:before {
     content: "\ea91";
