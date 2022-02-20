@@ -930,6 +930,7 @@ i.icon, a.icon {
 }
 .icon-vine:before {
     content: "\ea97";
+    color: #00B488;
 }
 .icon-rss:before {
     content: "\ea9b";
@@ -984,12 +985,15 @@ i.icon, a.icon {
 }
 .icon-wordpress:before {
     content: "\eab4";
+    color: #00749C;
 }
 .icon-blogger:before {
     content: "\eab7";
+    color: #FF5722
 }
 .icon-blogger2:before {
     content: "\eab8";
+    color: #FF5722;
 }
 .icon-tux:before {
     content: "\eabd";
@@ -1013,6 +1017,7 @@ i.icon, a.icon {
 }
 .icon-skype:before {
     content: "\eac5";
+    color: #00AFF0;
 }
 .icon-reddit:before {
     content: "\eac6";
@@ -1026,9 +1031,11 @@ i.icon, a.icon {
 }
 .icon-linkedin:before {
     content: "\eac9";
+    color: #0077B5;
 }
 .icon-linkedin2:before {
     content: "\eaca";
+    color: #0077B5;
 }
 .icon-stackoverflow:before {
     content: "\ead0";
