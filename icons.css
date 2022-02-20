@@ -886,15 +886,19 @@ i.icon, a.icon {
 }
 .icon-google-plus:before {
     content: "\ea8b";
+    color: #DD4B39;
 }
 .icon-google-plus2:before {
     content: "\ea8c";
+    color: #DD4B39;
 }
 .icon-google-plus3:before {
     content: "\ea8d";
+    color: #DD4B39;
 }
 .icon-hangouts:before {
     content: "\ea8e";
+    color: #1BA261;
 }
 .icon-google-drive:before {
     content: "\ea8f";
@@ -910,6 +914,11 @@ i.icon, a.icon {
 }
 .icon-instagram:before {
     content: "\ea92";
+    background: conic-gradient(from top to bottom, #515BD4, #8134AF, #DD2A7B, #FEDA77, #F58529) no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
 }
 .icon-whatsapp:before {
     content: "\ea93";
