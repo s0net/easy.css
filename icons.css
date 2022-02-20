@@ -914,7 +914,7 @@ i.icon, a.icon {
 }
 .icon-instagram:before {
     content: "\ea92";
-    background: conic-gradient(from top to bottom, #515BD4, #8134AF, #DD2A7B, #FEDA77, #F58529) no-repeat;
+    background: linear-gradient(from top to bottom, #515BD4, #8134AF, #DD2A7B, #FEDA77, #F58529) no-repeat;
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
